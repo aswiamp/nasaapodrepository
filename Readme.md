@@ -26,7 +26,7 @@ Before running the application, ensure you have the following installed:
    git clone https://github.com/aswiamp/nasaapodrepository.git
 2. Navigate to the project directory:
    ```bash
-   cd NASA-APOD-TYPESCRIPT-EXPRESS
+   cd nasaapodrepository
 3. Install dependencies:
     ```bash
     npm install
