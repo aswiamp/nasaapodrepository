@@ -23,7 +23,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aswiamp/nasarepo.git
+   git clone https://github.com/aswiamp/nasaapodrepository.git
 2. Navigate to the project directory:
    ```bash
    cd NASA-APOD-TYPESCRIPT-EXPRESS
